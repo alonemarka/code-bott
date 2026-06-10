@@ -4,8 +4,8 @@ import json
 import os
 import requests
 
-TOKEN = os.getenv("TOKEN")
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+TOKEN = os.getenv("8960896629:AAE81uFqQwg32zf1Ka6EwoMmEWljhIf6N-I")
+GROQ_API_KEY = os.getenv("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")
 
 MEMORY_FILE = "memory.json"
 
